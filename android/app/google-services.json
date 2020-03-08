@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245949862389",
+    "firebase_url": "https://padhakku-ef558.firebaseio.com",
+    "project_id": "padhakku-ef558",
+    "storage_bucket": "padhakku-ef558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245949862389:android:390aa34596de789a4310bc",
+        "android_client_info": {
+          "package_name": "com.padhakku.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245949862389-glr3dhktdl8m495f0masebi3u8et4r4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCq2JvSEIR7yRfISzT1iutGUthOHv5odI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245949862389-glr3dhktdl8m495f0masebi3u8et4r4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
